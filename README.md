@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm balaji</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-astronaut-out-laptop-space-cartoon-vector-icon-illustration-science-technology-isolated_138676-6881.jpg&tbnid=mvkX5pz89erlCM&vet=12ahUKEwiBxMSXjPuCAxVN6KACHbYbCAwQMygHegUIARCEAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fcute-astronaut-out-laptop-space-cartoon-vector-icon-illustration-science-technology-isolated_35868802.htm&docid=6JcCIWvpnqIe_M&w=626&h=626&q=animated%20technology%20image&ved=2ahUKEwiBxMSXjPuCAxVN6KACHbYbCAwQMygHegUIARCEAQ" alt="" srcset="">
 - 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/balaji-k-894031258/](https://www.linkedin.com/in/balaji-k-894031258/)
